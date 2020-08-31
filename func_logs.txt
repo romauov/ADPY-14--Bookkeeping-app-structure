@@ -1,0 +1,16 @@
+{'datetime': '2020-08-31 13:07:21.419348', 'called function': 'its_some_oclock', 'args': '', 'kwargs': '', 'result': None}
+{'datetime': '2020-08-31 13:08:18.137042', 'called function': 'its_some_oclock', 'args': '', 'kwargs': '', 'result': None}
+{'datetime': '2020-08-31 13:08:56.236153', 'called function': 'its_some_oclock', 'args': '', 'kwargs': '', 'result': None}
+{'datetime': '2020-08-31 13:23:09.665565', 'called function': 'its_some_oclock', 'args': '', 'kwargs': '', 'result': None}
+{'datetime': '2020-08-31 13:25:21.623344', 'called function': 'its_some_oclock', 'args': 'arg', 'kwargs': '', 'result': None}
+{'datetime': '2020-08-31 13:25:45.266778', 'called function': 'its_some_oclock', 'args': 'some_arg', 'kwargs': '', 'result': None}
+{'datetime': '2020-08-31 13:26:47.009496', 'called function': 'its_some_oclock', 'args': 'some_arg', 'kwargs': '', 'result': "it's 2020-08-31 already"}
+{'datetime': '2020-08-31 13:34:13.868077', 'called function': 'its_some_oclock', 'args': 'some_arg', 'kwargs': '', 'result': "it's 2020-08-31 already"}
+{'datetime': '2020-08-31 13:34:21.854887', 'called function': 'its_some_oclock', 'args': 'some_arg', 'kwargs': '', 'result': "it's 2020-08-31 already"}
+{'datetime': '2020-08-31 13:37:25.024183', 'called function': 'its_some_oclock', 'args': 'some_arg', 'kwargs': '', 'result': "it's 2020-08-31 already"}
+{'datetime': '2020-08-31 13:37:53.010638', 'called function': 'its_some_oclock', 'args': 'some_arg', 'kwargs': '', 'result': "it's 2020-08-31 already"}
+{'datetime': '2020-08-31 13:40:49.135171', 'called function': 'its_some_oclock', 'args': 'some_arg', 'kwargs': '', 'result': "it's 2020-08-31 already"}
+{'datetime': '2020-08-31 13:58:00.361110', 'called function': 'its_some_oclock', 'args': 'some_arg', 'kwargs': '', 'result': "it's 2020-08-31 already"}
+{'datetime': '2020-08-31 14:04:31.766149', 'called function': 'its_some_oclock', 'args': 'some_arg', 'kwargs': '', 'result': "it's 2020-08-31 already"}
+{'datetime': '2020-08-31 14:04:31.766149', 'called function': 'get_employees', 'args': '', 'kwargs': '', 'result': None}
+{'datetime': '2020-08-31 14:04:31.767150', 'called function': 'calculate_salary', 'args': '', 'kwargs': '', 'result': None}

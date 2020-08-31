@@ -1,1 +1,4 @@
 .idea/
+Bookkeeping/__pycache__/
+Bookkeeping/application/__pycache__/
+Bookkeeping/application/db/__pycache__/
